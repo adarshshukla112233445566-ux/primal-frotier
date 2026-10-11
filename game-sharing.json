@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://primalwild-ikx3yjzy.manus.game",
+  "title": "Primal Frontier",
+  "description": "Hunt original beasts across a lush volcanic island, dodge their telegraphed attacks, carve parts, craft better gear, build your camp in three stages and relight the signal tower.",
+  "defaultCaptions": {
+    "x": "Read the tells, roll through the stomp, punish the recovery. Primal Frontier is a stylised browser hunting and crafting expedition across a volcanic island.",
+    "facebook": "Primal Frontier: explore a lush volcanic island, hunt original creatures and two apex beasts, craft stronger gear, and relight your camp's signal tower. Plays in your browser.",
+    "reddit": "I made Primal Frontier, a browser 3D hunting/crafting expedition with telegraphed melee combat, three connected regions and a three-stage base camp.",
+    "discord": "Primal Frontier: a stylised 3D browser hunt. Dodge, punish, carve, craft, and light the signal tower."
+  },
+  "assets": {
+    "og": {
+      "digest": "sha256:7310872ccab1ec205b10c71b4db49bac86ee673b123652a5628a72dec88509e5",
+      "path": "share/7310872ccab1ec205b10c71b4db49bac86ee673b123652a5628a72dec88509e5.png",
+      "mime": "image/png",
+      "width": 2560,
+      "height": 1440,
+      "sizeBytes": 7437651,
+      "sourcePath": "assets/share/og.png"
+    },
+    "favicon": {
+      "digest": "sha256:c46e834b31893ab5ef0b9f99b67a2b35553688c65832f38943b05e33ff2a610f",
+      "path": "share/c46e834b31893ab5ef0b9f99b67a2b35553688c65832f38943b05e33ff2a610f.png",
+      "mime": "image/png",
+      "width": 256,
+      "height": 256,
+      "sizeBytes": 107945,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}
